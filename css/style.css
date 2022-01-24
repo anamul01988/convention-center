@@ -1,7 +1,7 @@
-/* .precious-moment img{
-    height :auto;
-    width: 100%;
-} */
+.carousel p{
+    color: #BDBDBD ;
+}
+/* packages section start 03 */
 .package p, ul li a{
     font-size: 15px;
     text-decoration: none;
@@ -9,8 +9,15 @@
     text-transform: capitalize;
 
 }
+
+
+.card{
+    background-color: #FFEBEE ;
+}
+
 .third{
-    background-color: #3F87F5;
+    background-color: #FB8C00 ;
+    margin-top: -30px;
 
 }
 .third-col{
@@ -22,19 +29,17 @@
     position: absolute;
     padding: 0px 12px;
     color: #fff;
-    background-color: #d65910;
+    background-color: #D84315 ;
     top: -15px;
     right: 30px;
     z-index: 1;
 }
+/* packages section end 03 */
+/* footer section start */
 .newslater{
     background-image: url('../images/asset\ 45.jpeg');
 }
 .subcribe{
     background-image: url('../images/asset\ 38.jpeg');
 }
-/* .newslater, .subcribe button{
-    background: #D20055;
-    color: #fff;
-
-} */
+/* footer section end */
