@@ -27,3 +27,14 @@
     right: 30px;
     z-index: 1;
 }
+.newslater{
+    background-image: url('../images/asset\ 45.jpeg');
+}
+.subcribe{
+    background-image: url('../images/asset\ 38.jpeg');
+}
+/* .newslater, .subcribe button{
+    background: #D20055;
+    color: #fff;
+
+} */
